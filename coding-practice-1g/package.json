@@ -1,0 +1,12 @@
+{
+  "name": "coding-practice-1g",
+  "version": "1.0.0",
+  "description": "Create two files `exportString.mjs`, `importString.mjs` parallel to `README.md` file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
